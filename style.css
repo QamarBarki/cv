@@ -1,0 +1,22 @@
+
+       body{
+         background-color: #EAEAEA;
+       }
+      
+
+h1{
+    color: #6464bfbf;
+}
+hr{
+    background-color: aqua;
+    background: #df1313;
+}
+label{
+    font-size:x-large;
+}
+text{
+    font-size: medium;
+}
+span{
+    font-size: larger;
+}
